@@ -11,14 +11,14 @@
 
   <h2>📌 Features</h2>
     <ul>
-        <li>🔹 Sentiment Analysis</li>
-        <li>🔹 Keyword Extraction</li>
-        <li>🔹 Tokenization & POS Tagging</li>
-        <li>🔹 Named Entity Recognition (NER)</li>
-        <li>🔹 Clean UI with separate result sections</li>
+        <li> Sentiment Analysis</li>
+        <li> Keyword Extraction</li>
+        <li>Tokenization & POS Tagging</li>
+        <li>Named Entity Recognition (NER)</li>
+        <li>Clean UI with separate result sections</li>
     </ul>
 
-    <h2>📁 Project Files</h2>
+  <h2>📁 Project Files</h2>
     <pre>
 📦 NLP-Powered-Text-Insights/
 │
@@ -27,7 +27,7 @@
 ├── README.html          → Project documentation  
     </pre>
 
-    <h2>⚙️ Requirements</h2>
+  <h2>⚙️ Requirements</h2>
     <pre><code>
 pip install streamlit textblob spacy
 python -m spacy download en_core_web_sm
@@ -60,5 +60,3 @@ streamlit run app.py
         <li><a href="https://textblob.readthedocs.io/" target="_blank">TextBlob Guide</a></li>
     </ul>
 
-    <h2>👩‍💻 Author</h2>
-    <p><strong>Pavana C</strong> – <a href="https://github.com/PavanaAradhya" target="_blank">GitHub Profile_
